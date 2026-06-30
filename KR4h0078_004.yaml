@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0078/krp/v1/juan/4
+seq: 4
+front:
+  text: 圭塘欵乃集題詩
+  hash: sha256:adbecb37c1ec82e0e0865fab5d6a08db1613af3ef849931f208d0b0dd83a0677
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0078_WYG_004-1a, image: WYG1366/WYG1366-0912c.png}
+body:
+  text: 至正甲辰諸生書於大都南城之寓館趙恆細讀圭塘唱和詩流風餘韻想當時東山絲竹閒方得北海樽罍老更宜亂後池臺渾索寞夢中松竹亦參差棕輿不晚歸枌社願校園丁闕舊基中書左丞安陽許公洎弟太常文章政事名滿天下每嘗想慕風采至正甲辰愚叨掌故得親太常公一日出示圭塘唱和詩集乃左丞致政太常以南臺御史還家兄弟暇日宴集圭塘亭榭時所作也一唱一和珠玉輝映奉讀之餘則賢人君子棣華之樂可想也遂成俚語一章用贊萬一云陸煥然宰相歸來致政時圭塘唱和類塤篪好山好水天開畫難弟難兄日賦詩酒斚每從花塢設釣舟時傍栁隂移景因人勝千年下緑野香山未足竒
+  hash: sha256:03f6294d75f8ab5e888f226726e9709c4ec62c43d31b8b264551f184a88e6bc8
+metadata:
+  title: 圭塘欸乃集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:35:16.629994'
+  juan_title: 題詩
+  source:
+    repository: kanripo
+    path: KR4h0078/KR4h0078_004.txt
+hash: sha256:429bbc2d7fe8a83a506c1442d2c7c953d3d7762fb4a2c79b0f0277d316be70fc
